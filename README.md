@@ -1,17 +1,36 @@
-### Hi there 👋
+### Hi there 👋 I'm Park
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimbab2066)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**kimbab2066/kimbab2066** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a software developer passionate about building projects using **React**, **Kotlin**, and **Machine Learning**.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **React** and **Kotlin** projects.
+- 🌱 I’m learning **Deep Learning** and **AI**.
+- 📫 How to reach me: **kimbab2066@example.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Technologies I Use
+
+- **Frontend**: React, JavaScript, TypeScript
+- **Backend**: Kotlin, Spring Boot
+- **Machine Learning**: TensorFlow, Keras
+- **Database**: MySQL, PostgreSQL
+- **Tools**: Git, Docker
+
+---
+
+### 📊 GitHub Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimbab2066&show_icons=true&count_private=true&hide_title=true&theme=radical)
+
+---
+
+### 📚 Current Learning
+
+- **Deep Learning** with TensorFlow
+- **Advanced Kotlin** features
+
+---
+
+### 📈 GitHub Activity
+
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kimbab2066&bg_color=1d2b3c&color=00d9a3&line=03c03c&point=fffc00)](https://github.com/kimbab2066)
