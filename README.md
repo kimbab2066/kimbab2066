@@ -20,8 +20,7 @@ I’m a software developer passionate about building projects using **React**, *
 
 ### 📊 GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimbab2066&show_icons=true&count_private=true&hide_title=true&theme=radical)
-
+[![kimbab2066's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimbab2066&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ### 📚 Current Learning
