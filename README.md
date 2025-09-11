@@ -32,4 +32,4 @@ I’m a software developer passionate about building projects using **React**, *
 
 ### 📈 GitHub Activity
 
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kimbab2066&bg_color=1d2b3c&color=00d9a3&line=03c03c&point=fffc00)](https://github.com/kimbab2066)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kimbab2066&theme=dark&hide_border=true)](https://git.io/streak-stats)
