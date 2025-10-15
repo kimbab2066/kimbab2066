@@ -1,19 +1,19 @@
 ### Hi there 👋 I'm Park
 
-I’m a software developer passionate about building projects using **React**, **Kotlin**, and **Machine Learning**.
+I’m a software developer passionate about building projects using **React**, **Spring**, and **Machine Learning**.
 
-- 🔭 I’m currently working on **React** and **Kotlin** projects.
-- 🌱 I’m learning **Deep Learning** and **AI**.
-- 📫 How to reach me: **kimbab2066@example.com**
+- 🔭 I’m currently working on **React** and **Spring** projects.
+- 🌱 I’m learning **OS** and **AI**.
+- 📫 How to reach me: **qseft523125@naver.com**
 
 ---
 
 ### 💻 Technologies I Use
 
-- **Frontend**: React, JavaScript, TypeScript
-- **Backend**: Kotlin, Spring Boot
+- **Frontend**: React, JavaScript, TypeScript, Vue
+- **Backend**: Kotlin, Spring Boot, Express
 - **Machine Learning**: TensorFlow, Keras
-- **Database**: MySQL, PostgreSQL
+- **Database**: MySQL, PostgreSQL, Oracle
 - **Tools**: Git, Docker
 
 ---
