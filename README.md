@@ -10,23 +10,23 @@ I’m a software developer passionate about building projects using **React**, *
 
 ### 💻 Technologies I Use
 
-- **Frontend**: React, JavaScript, TypeScript, Vue
-- **Backend**: Kotlin, Spring Boot, Express
+- **Frontend**: React, Vue, JavaScript, TypeScript
+- **Backend**: Spring Boot, Express, Kotlin
+- **Database**: MySQL, Oracle, PostgreSQL
 - **Machine Learning**: TensorFlow, Keras
-- **Database**: MySQL, PostgreSQL, Oracle
 - **Tools**: Git, Docker
 
 ---
 
 ### 📊 GitHub Stats
 
-[![kimbab2066's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimbab2066&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=kimbab2066&theme=github-dark)
 ---
 
 ### 📚 Current Learning
 
-- **Deep Learning** with TensorFlow
-- **Advanced Kotlin** features
+- **CS** with OS
+- **Advanced Spring** features
 
 ---
 
