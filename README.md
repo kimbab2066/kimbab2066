@@ -1,7 +1,7 @@
 ## Hi, I'm Park — Backend Developer
 
-**Spring 기반으로 안정적인 서버와 데이터 중심 시스템을 설계하는 백엔드 개발자**입니다.  
-기능 구현에 앞서 **데이터 흐름, 트랜잭션 경계, 유지보수 비용**을 먼저 고려하며 설계합니다.
+Spring 기반으로 안정적인 서버와 데이터 중심 시스템을 설계하는 백엔드 개발자입니다.  
+기능 구현에 앞서 데이터 흐름, 트랜잭션 경계, 유지보수 비용을 먼저 고려하며 설계합니다.
 
 -   트랜잭션 경계 설정과 데이터 정합성을 중심으로 서버 로직 설계 경험
     
@@ -77,9 +77,6 @@ Spring Boot 기반 게시판 서비스 백엔드 개발
 -   리스트 조회 기준 쿼리 11회 → 1회로 감소
     
 -   DB I/O 감소를 통한 응답 속도 및 안정성 개선
-    
-
-Repository: https://github.com/ADballoonIsBest
 
 ----------
 
@@ -100,7 +97,6 @@ Node.js 기반 매칭 서비스 백엔드 개발
     
 -   ORM 오버헤드 제거로 조회 성능과 유지보수성 동시 개선
     
-Repository: https://github.com/kimbab2066/complaint24
 
 ## Currently Learning
 
