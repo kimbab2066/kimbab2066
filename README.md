@@ -10,7 +10,7 @@ Spring 기반으로 안정적인 서버와 데이터 중심 시스템을 설계�
 -   운영 환경을 가정한 예외 처리, 로그 설계, 성능 저하 원인 분석에 관심
     
 
-Contact: qseft523125@naver.com
+Contact: qseft5231@gmail.com
 
 
 ## What I Focus On
