@@ -40,11 +40,6 @@ Contact: qseft5231@gmail.com
     -   테스트 코드 설계
         
 
-## GitHub Activity
-
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=kimbab2066&theme=github-dark)
-
-
 ## Development Philosophy
 
 -   빠르게 구현하는 코드보다, **문제를 반복하지 않는 구조**
